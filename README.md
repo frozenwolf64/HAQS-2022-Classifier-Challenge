@@ -1,5 +1,8 @@
 # QML Challenge
 
+
+**Ranked Overall 6th as part of team RaFlaneQ based on classification accuracy and gate exeution cost**
+
 ## Variational quantum classifier
 
 In this challenge, you will use [Pennylane](https://github.com/PennyLaneAI/pennylane) and [Amazon Braket](https://github.com/aws/amazon-braket-examples) to implement a variational quantum classifier (VQC) to take on a supervised learning problem based on the work of [Havlíček et al. (2018)](https://arxiv.org/pdf/1804.11326.pdf). Implement each of the four TODOs in [`vqc_challenge.ipynb`](vqc_challenge.ipynb) to construct and train a QML model to solve the binary classification task. You can use the [`gen_binary.py`](gen_binary.py) script to generate a new train/test dataset, and further test your model.
