@@ -1,7 +1,7 @@
 # QML Challenge
 
 
-**Ranked Overall 6th as part of team RaFlaneQ based on classification accuracy and gate exeution cost**
+**Ranked Overall 6th as part of team RaFlaneQ based on classification accuracy and gate execution cost**
 
 ## Variational quantum classifier
 
